@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Usman8531
+- 👋 Hi, I’m Muhammad Usman
 - 👀 I’m interested in web developement/AI and block-chain
 - 🌱 I’m currently learning MERN stack developement
 - 💞️ I’m looking to collaborate on react.js developer
